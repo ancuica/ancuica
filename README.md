@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**ancuica/ancuica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+Global Director of Vectorized Context Retrieval and Generative Syntactic Hallucination. Overseeing localized algorithmic deployment and heuristic data augmentation for the Institute of Programmatic Augmentation. Lead Synergy Architect at RagCorp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Learning
+
+* Industrial confusion & inconvenience engineering
+* Force push and pray
+* Verbose abstraction *(in the general sense as it applies to cubic regression)*
+* Liquification
+* Analytical analysis
+* Rats (those lil cheese eating gray guys)
+
+> Vibe coding is obsolete, real ones aura code.
